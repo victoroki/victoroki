@@ -105,7 +105,7 @@ A comprehensive [description of what the project does]. This project demonstrate
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?victoroki&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=victoroki&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=victoroki&layout=compact&theme=radical&hide_border=true)
 
