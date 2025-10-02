@@ -6,8 +6,8 @@
 
 ### 💻 Crafting Digital Solutions | 🌍 Based in Nairobi, Kenya | 🚀 AWS Certified
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url) -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
 [![GitHub followers](https://img.shields.io/github/followers/victoroki?logo=github&style=for-the-badge&color=0e75b6&labelColor=0e75b6)](https://github.com/victoroki)
 
@@ -108,7 +108,7 @@ An intelligent web application that revolutionizes agricultural diagnostics by u
 - ✅ Comprehensive training visualization with detailed evaluation metrics
 - ✅ Multi-class disease detection across various plant species
 
-**[📂 Source Code](https://github.com/victoroki/plant_diseases_prediction)** | **[🔬 View Model](https://github.com/victoroki/plant_diseases_prediction)**
+**[📂 Source Code](https://github.com/victoroki/plant_diseases_prediction)** 
 
 ---
 
@@ -131,7 +131,7 @@ A comprehensive Enterprise Resource Planning system designed for modern educatio
 - ✅ Deployed on **Render with CI/CD pipeline**
 - ✅ Optimized database queries for **large-scale operations**
 
-**[📂 Source Code](https://github.com/victoroki/school-erp)** | **[🚀 Live Demo](#)**
+**[📂 Source Code](https://github.com/victoroki/school-erp)** 
 
 ---
 
@@ -167,9 +167,9 @@ A full-featured e-commerce platform with integrated M-Pesa payment gateway, prov
 
 **Tech Stack:** `React` • `Node.js` • `PostgreSQL` • `AWS`
 
-*[Add your description and features for mACHILE project here]*
+<!-- *[Add your description and features for mACHILE project here]* -->
 
-**[📂 Source Code](#)** | **[🚀 Live Demo](#)**
+**[📂 Source Code](#)** 
 
 ---
 
@@ -177,7 +177,7 @@ A full-featured e-commerce platform with integrated M-Pesa payment gateway, prov
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victoroki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=victoroki&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide=contribs" />
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=victoroki&theme=tokyonight&hide_border=true" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoroki&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
@@ -191,10 +191,10 @@ A full-featured e-commerce platform with integrated M-Pesa payment gateway, prov
 
 <div align="center">
 
-| 🎓 Certification | 🏢 Issuer | 📅 Year |
+| 🎓 Certification 
 |------------------|-----------|---------|
-| AWS Cloud Practitioner | Amazon Web Services | 2024 |
-| B.Sc. Information Technology | [Your University] | 2024 |
+| AWS Cloud Practitioner | Amazon Web Services 
+| B.Sc. Information Technology 
 
 </div>
 
