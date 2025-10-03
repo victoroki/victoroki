@@ -154,7 +154,7 @@ A full-featured e-commerce platform with integrated M-Pesa payment gateway, prov
 - ✅ **Responsive design** optimized for mobile shopping
 - ✅ Complete **payment gateway** with transaction tracking
 
-**[📂 Source Code](https://github.com/victoroki/hadria-Ecommerce)** | **[💳 View Features](#)**
+
 
 ---
 
