@@ -6,9 +6,9 @@
 
 ### 💻 Crafting Digital Solutions | 🌍 Based in Nairobi, Kenya | 🚀 AWS Certified
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url) -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mongare-029a75385/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victor-mongare.netlify.app)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okiomeriv@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/victoroki?logo=github&style=for-the-badge&color=0e75b6&labelColor=0e75b6)](https://github.com/victoroki)
 
 </div>
@@ -25,6 +25,10 @@ const victor = {
     certifications: ["AWS Cloud Practitioner"],
     passions: ["Clean Code", "AI/ML", "EdTech", "AgriTech"],
     currentMission: "Building scalable solutions that solve real-world problems",
+    contact: {
+        email: "okiomeriv@gmail.com",
+        linkedin: "linkedin.com/in/victor-mongare-029a75385",
+    },
     funFact: "I turn coffee into code and ideas into reality ☕️→💻",
     lifePhilosophy: "Code with purpose, learn with passion, build with impact"
 };
@@ -32,7 +36,7 @@ const victor = {
 
 - 🔭 **Currently:** Building intelligent systems and scalable web applications
 - 🌱 **Learning:** Advanced AI/ML techniques and cloud architecture patterns
-- 💡 **Open for:** Collaboration on innovative projects that make a difference
+- 💡 **Open for:** Full-time roles, freelance projects, and impactful collaborations
 - 🎯 **2025 Goals:** Contribute to major open source projects and scale impactful solutions
 - ⚡ **Fun fact:** I believe the best code is the code that empowers others
 
@@ -108,7 +112,7 @@ An intelligent web application that revolutionizes agricultural diagnostics by u
 - ✅ Comprehensive training visualization with detailed evaluation metrics
 - ✅ Multi-class disease detection across various plant species
 
-**[📂 Source Code](https://github.com/victoroki/plant_diseases_prediction)** 
+**[📂 Source Code](https://github.com/victoroki/plant_diseases_prediction)**
 
 ---
 
@@ -131,7 +135,7 @@ A comprehensive Enterprise Resource Planning system designed for modern educatio
 - ✅ Deployed on **Render with CI/CD pipeline**
 - ✅ Optimized database queries for **large-scale operations**
 
-**[📂 Source Code](https://github.com/victoroki/school-erp)** 
+**[📂 Source Code](https://github.com/victoroki/school-erp)**
 
 ---
 
@@ -154,22 +158,27 @@ A full-featured e-commerce platform with integrated M-Pesa payment gateway, prov
 - ✅ **Responsive design** optimized for mobile shopping
 - ✅ Complete **payment gateway** with transaction tracking
 
-
-
 ---
 
 <div align="center">
 
-### 🚗 mACHILE - Vehicle Management Platform
+### 🚗 mACHILE — Vehicle Management Platform
 **Smart Fleet & Maintenance Tracking**
 
 </div>
 
 **Tech Stack:** `React` • `Node.js` • `PostgreSQL` • `AWS`
 
-<!-- *[Add your description and features for mACHILE project here]* -->
+A smart vehicle and fleet management platform built to simplify maintenance scheduling, track vehicle history, and provide fleet owners with real-time operational insights.
 
-**[📂 Source Code](#)** 
+**🎯 Key Features:**
+- ✅ **Vehicle registration & profile management** with full service history
+- ✅ **Maintenance scheduling** with automated reminders and alerts
+- ✅ **Fleet analytics dashboard** for operational decision-making
+- ✅ Cloud-deployed on **AWS** for reliability and scalability
+- ✅ RESTful API backend powered by **Node.js & PostgreSQL**
+
+**[📂 Source Code](#)**
 
 ---
 
@@ -191,18 +200,19 @@ A full-featured e-commerce platform with integrated M-Pesa payment gateway, prov
 
 <div align="center">
 
-| 🎓 Certification 
-|------------------|-----------|---------|
-| AWS Cloud Practitioner | Amazon Web Services 
-| B.Sc. Information Technology 
+| 🎓 Certification | 🏢 Issuer |
+|------------------|-----------|
+| AWS Cloud Practitioner | Amazon Web Services |
+| B.Sc. Information Technology | University Degree |
 
 </div>
 
 **🌟 Other Accomplishments:**
-- 💻 Built and deployed **3+ production-ready applications**
+- 💻 Built and deployed **4+ production-ready applications**
 - 🤖 Developed AI/ML models for real-world agricultural applications
 - 🏗️ Contributed to education technology and e-commerce solutions
 - 🌍 Integrated payment systems for the African market (M-Pesa)
+- 🚗 Built vehicle fleet management solutions using cloud infrastructure
 
 ---
 
@@ -244,12 +254,10 @@ const myValue = {
 
 > *Coming soon: Technical articles on AI/ML, Laravel best practices, and building scalable applications*
 
-<!-- BLOG-POST-LIST:START -->
 - 🤖 Building Production-Ready ML Models with TensorFlow
 - 🏗️ Laravel Architecture: Building Scalable ERP Systems
 - 💳 Integrating M-Pesa API in Your PHP Application
 - 🚀 From Local to Cloud: Deploying with CI/CD
-<!-- BLOG-POST-LIST:END -->
 
 ---
 
@@ -262,16 +270,16 @@ const myValue = {
 Whether you want to discuss:
 - 💡 Innovative project ideas
 - 🤝 Collaboration opportunities
-- 💼 Full-time positions
+- 💼 Full-time or freelance positions
 - 🎓 Knowledge sharing
 - ☕ Or just chat about tech!
 
-**Feel free to reach out:**
+**Reach me directly:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mongare-029a75385/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://victor-mongare.netlify.app)
+[![Email](https://img.shields.io/badge/okiomeriv%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:okiomeriv@gmail.com)
+
 
 </div>
 
@@ -289,6 +297,6 @@ Whether you want to discuss:
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-### ⭐️ From [victoroki](https://github.com/victoroki) | Let's build something amazing together! 🚀
+### ⭐️ From [victoroki](https://github.com/victoroki) — Let's build something amazing together! 🚀
 
 </div>
